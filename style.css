@@ -40,9 +40,12 @@ body {
     text-decoration:nome;
 }
 
+.botao_segundario {
+    backound-color:transparent;
+    border: 2px solid var(--branco-principal)
+}
 
-
-.container__botão{
-    background-color: var (botao-azul);
-    border-radius 5px;
-padding:1em;
+.container__titulo {
+   font-size: 28px;
+   font-weight: 700;
+}
