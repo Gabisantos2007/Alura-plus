@@ -25,9 +25,22 @@ body {
      background-size: contain;
 }
 
-containe {
-    heigt:100vh;
-{
+.containe {
+    heigth: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.contatainer_botão{
+    heckgroud-color: var(--botão-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal)
+    display:block;
+    text-decoration:nome;
+}
+
+
 
 .container__botão{
     background-color: var (botao-azul);
