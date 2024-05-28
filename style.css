@@ -79,4 +79,21 @@ body {
     font-weight: 700;
     font-size: 48px;
     color: var(--banco-principal);
+    margin-bottom: 0.1em;
 }
+
+.descricao__texto {
+    color: var(--cinza-segundario);
+}
+
+.segundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 2em;
+}
+
+
+
