@@ -95,5 +95,22 @@ body {
     padding: 2em;
 }
 
+.dispositivos__lista {
+    display:flex;
+    justify-content:center;
+    list-style-type: none;
+}
 
+.dispositivos {
+    text-align: center;
+}
 
+.dispositivos_titulo{
+    font-side:48px;
+    -color: var(--banco-principal);
+}
+
+.lista__item {
+    font-side:32px;
+
+}
